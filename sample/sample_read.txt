@@ -1,0 +1,3 @@
+このファイルは読み込み用のサンプルファイルです
+
+this file is sample for read file
